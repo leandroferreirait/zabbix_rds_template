@@ -25,3 +25,6 @@ Note: If you are creating a custom IAM policy, here is the json output:
     ]
 }
 ```
+
+
+sudo ln -fs /usr/bin/python3.6 /usr/bin/python
